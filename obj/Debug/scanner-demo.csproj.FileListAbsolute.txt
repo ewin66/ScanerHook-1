@@ -1,0 +1,9 @@
+E:\workspace_github\scanner-demo\scanner-demo\bin\Debug\scanner-demo.exe.config
+E:\workspace_github\scanner-demo\scanner-demo\bin\Debug\scanner-demo.exe
+E:\workspace_github\scanner-demo\scanner-demo\bin\Debug\scanner-demo.pdb
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner-demo.csprojResolveAssemblyReference.cache
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner_demo.Form1.resources
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner_demo.Properties.Resources.resources
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner-demo.csproj.GenerateResource.Cache
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner-demo.exe
+E:\workspace_github\scanner-demo\scanner-demo\obj\Debug\scanner-demo.pdb
